@@ -1,4 +1,5 @@
-import json 
+import json
 
-v = "hello world"
-print(v)
+a = open("test.json","r")
+
+
